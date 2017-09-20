@@ -24,6 +24,10 @@ Before running the tests make sure you are serving the app via `ng serve`.
 
 ## Deploying to GitHub Pages
 
+npm i -g angular-cli-ghpages
+ng build -prod --base-href https://faeezshaikh.github.io/md-angular-v1.4.1/
+ngh
+
 Run `ng github-pages:deploy` to deploy to GitHub Pages.
 
 ## Further help
